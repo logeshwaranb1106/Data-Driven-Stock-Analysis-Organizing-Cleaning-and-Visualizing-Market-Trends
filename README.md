@@ -1,54 +1,54 @@
 # Data-Driven-Stock-Analysis-Organizing-Cleaning-and-Visualizing-Market-Trends
 
 # 📊 Data-Driven Stock Analysis
-Organizing, Cleaning & Visualizing Nifty 50 Trends
+**Organizing, Cleaning & Visualizing Nifty 50 Trends**
 
 # 🚀 Overview
-Analyze Nifty 50 stock data from YAML format, transform it, and build interactive dashboards using Python, SQL, Power BI, and Streamlit.
+**Analyze Nifty 50 stock data from YAML format, transform it, and build interactive dashboards using Python, SQL, Power BI, and Streamlit.**
 
 # 🛠️ Tools & Skills
-Python, Pandas, SQL (MySQL/PostgreSQL)
+**Python, Pandas, SQL (MySQL/PostgreSQL)**
 
-Streamlit, Power BI
+**Streamlit, Power BI**
 
-Data Cleaning, Stats, Visualization
+**Data Cleaning, Stats, Visualization**
 
 # 🔍 Problem Statement
-Create an interactive dashboard showing:
+**Create an interactive dashboard showing:**
 
-Top gainers/losers
+**Top gainers/losers**
 
-Market summary
+**Market summary**
 
-Volatility & cumulative returns
+**Volatility & cumulative returns**
 
-Sector performance
+**Sector performance**
 
-Monthly trends
+**Monthly trends**
 
-Stock correlation
+**Stock correlation**
 
 # 📈 Key Insights
-Top 10 Green/Red Stocks
+**Top 10 Green/Red Stocks**
 
-Avg. Price & Volume
+**Avg. Price & Volume**
 
-Volatility Analysis
+**Volatility Analysis**
 
-Sector-wise Avg Return
+**Sector-wise Avg Return**
 
-Monthly Gainers/Losers
+**Monthly Gainers/Losers**
 
-Correlation Heatmap
+**Correlation Heatmap**
 
 # 📦 Deliverables
-✅ Cleaned SQL database
+**✅ Cleaned SQL database**
 
-✅ Python analysis scripts
+**✅ Python analysis scripts**
 
-✅ Power BI report
+**✅ Power BI report**
 
-✅ Streamlit app
+**✅ Streamlit app**
 
 # 📂 Dataset
-Stock data in YAML format, sector info in CSV.
+**Stock data in YAML format, sector info in CSV.**
