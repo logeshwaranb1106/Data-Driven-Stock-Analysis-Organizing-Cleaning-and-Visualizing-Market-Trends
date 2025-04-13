@@ -1,7 +1,7 @@
 # Data-Driven-Stock-Analysis-Organizing-Cleaning-and-Visualizing-Market-Trends
 
 **📊 Data-Driven Stock Analysis**
-#Organizing, Cleaning & Visualizing Nifty 50 Trends
+# Organizing, Cleaning & Visualizing Nifty 50 Trends
 
 **🚀 Overview**
 Analyze Nifty 50 stock data from YAML format, transform it, and build interactive dashboards using Python, SQL, Power BI, and Streamlit.
