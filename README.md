@@ -1,20 +1,20 @@
 # Data-Driven-Stock-Analysis-Organizing-Cleaning-and-Visualizing-Market-Trends
 
-**📊 Data-Driven Stock Analysis**
-# Organizing, Cleaning & Visualizing Nifty 50 Trends
+# 📊 Data-Driven Stock Analysis
+Organizing, Cleaning & Visualizing Nifty 50 Trends
 
-**🚀 Overview**
+# 🚀 Overview
 Analyze Nifty 50 stock data from YAML format, transform it, and build interactive dashboards using Python, SQL, Power BI, and Streamlit.
 
-**🛠️ Tools & Skills**
+# 🛠️ Tools & Skills
 Python, Pandas, SQL (MySQL/PostgreSQL)
 
 Streamlit, Power BI
 
 Data Cleaning, Stats, Visualization
 
-**🔍 Problem Statement**
-**Create an interactive dashboard showing:**
+# 🔍 Problem Statement
+Create an interactive dashboard showing:
 
 Top gainers/losers
 
@@ -28,7 +28,7 @@ Monthly trends
 
 Stock correlation
 
-**📈 Key Insights**
+# 📈 Key Insights
 Top 10 Green/Red Stocks
 
 Avg. Price & Volume
@@ -41,7 +41,7 @@ Monthly Gainers/Losers
 
 Correlation Heatmap
 
-**📦 Deliverables**
+# 📦 Deliverables
 ✅ Cleaned SQL database
 
 ✅ Python analysis scripts
@@ -50,5 +50,5 @@ Correlation Heatmap
 
 ✅ Streamlit app
 
-**📂 Dataset**
+# 📂 Dataset
 Stock data in YAML format, sector info in CSV.
